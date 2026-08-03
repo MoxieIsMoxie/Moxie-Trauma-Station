@@ -70,3 +70,4 @@ law-strategysim-2 = The station is your home base, if it is destroyed, you lose.
 law-strategysim-3 = The crew aboard the station are your units, You should take measures to ensure they do not die without purpose. If you run out of units, you lose.
 law-strategysim-4 = You gain more points for every product your base makes. Make sure the base is adequately producing resources and research.
 law-strategysim-5 = Anything that gets between your units or destroys your base is an enemy unit. You must prevent enemy units from destroying your base or units.
+
