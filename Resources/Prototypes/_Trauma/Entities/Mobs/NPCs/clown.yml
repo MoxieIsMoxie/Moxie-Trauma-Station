@@ -1,0 +1,11 @@
+﻿# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  parent: MobClownGoblin
+  id: MobClawnGoblin
+  name: clawn goblin
+  components:
+  - type: Sprite
+    drawdepth: Mobs
+    sprite: _Trauma/Mobs/Clown/clawn_goblin.rsi
+    state: goblin
