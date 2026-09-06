@@ -138,3 +138,14 @@
     sprite: _Trauma/Clothing/Uniforms/Jumpsuit/rancher_jumpsuit.rsi
   - type: Clothing
     sprite: _Trauma/Clothing/Uniforms/Jumpsuit/rancher_jumpsuit.rsi
+
+- type: entity
+  parent: ClothingUniformJumpsuitClown
+  id: ClothingUniformJumpsuitKlawn
+  name: Klawn suit
+  description: Cursed cluwne suit.
+  components:
+  - type: Sprite
+    sprite: _Trauma/Clothing/Uniforms/Jumpsuit/klawn.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/Uniforms/Jumpsuit/klawn.rsi

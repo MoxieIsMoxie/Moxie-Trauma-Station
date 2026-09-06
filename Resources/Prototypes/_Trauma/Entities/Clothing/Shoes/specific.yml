@@ -1,0 +1,12 @@
+﻿# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- type: entity
+  parent: ClothingShoesClownBase
+  id: ClothingShoesKlawn
+  name: klawn shoes
+  description: "The prankster's special-issue clowning shoes. Damn they're huge!"
+  components:
+  - type: Sprite
+    sprite: _Trauma/Clothing/Shoes/Specific/klawn.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/Shoes/Specific/klawn.rsi

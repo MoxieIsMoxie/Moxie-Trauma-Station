@@ -2,10 +2,10 @@
 
 - type: entity
   parent: MobClownGoblin
-  id: MobClawnGoblin
-  name: clawn goblin
+  id: MobKlawnGoblin
+  name: klawn goblin
   components:
   - type: Sprite
     drawdepth: Mobs
-    sprite: _Trauma/Mobs/Clown/clawn_goblin.rsi
+    sprite: _Trauma/Mobs/Clown/klawn_goblin.rsi
     state: goblin

@@ -74,3 +74,15 @@
         Slash: 0.8
         Piercing: 0.9
         Heat: 0.9
+
+- type: entity
+  parent: ClothingMaskClownBase
+  id: ClothingMaskKlawn
+  name: klawn wig and mask
+  description: A true prankster's facial attire. A klawn is incomplete without his wig and mask.
+  components:
+  - type: Appearance
+  - type: Sprite
+    sprite: _Trauma/Clothing/Mask/klawn.rsi
+  - type: Clothing
+    sprite: _Trauma/Clothing/Mask/klawn.rsi
